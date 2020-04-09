@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My data and programming blog</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on My data and programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ajna Toth</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:36:31 +0000</lastBuildDate>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/page/about/</link>
+      <pubDate>Thu, 05 Mar 2020 14:36:31 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>About me Since 2015 I have learnt a lot about Data Science, Programming, Data Engineering in my free time. Now I try to collect my knowledge as posts, as reminders for myself. I know some R, Python, SQL. I use Fedora everyday for several years. With my friends - Google, Stackoverflow - I can troubleshoot a lot of things. I am an Environmental Engineer and have PhD in Chemistry.
+During my learning journey I attended several courses and used a lot of platforms.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/page/contact/</guid>
+      <description>Contact You can connect me via LinkedIn.</description>
+    </item>
+    
+  </channel>
+</rss>

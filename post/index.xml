@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My data and programming blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My data and programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ajna Toth</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 15:55:16 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My courses</title>
+      <link>/my-courses/</link>
+      <pubDate>Thu, 05 Mar 2020 15:55:16 +0000</pubDate>
+      
+      <guid>/my-courses/</guid>
+      <description>Courses Coursera  An Introduction to Interactive Programming in Python (Part 1), Rice University An Introduction to Interactive Programming in Python (Part 2), Rice University Data Management and Visualization, Wesleyan University Exploratory Data Analysis, Johns Hopkins University Getting and Cleaning Data, Johns Hopkins University Machine Learning Foundations: A Case Study Approach, University of Washington Programming for Everybody (Getting Started with Python) University of Michigan Python Data Structures, University of Michigan R Programming, Johns Hopkins University Regression Models, Johns Hopkins University Reproducible Research, Johns Hopkins University Statistical Inference, Johns Hopkins University The Data Scientist’s Toolbox, Johns Hopkins University  EDX   Data Science: Visualization</description>
+    </item>
+    
+    <item>
+      <title>Geolocate IP addresses and visualize using folium</title>
+      <link>/ip-post/</link>
+      <pubDate>Thu, 05 Mar 2020 15:53:18 +0000</pubDate>
+      
+      <guid>/ip-post/</guid>
+      <description>This blog post was originally published in https://adventuresindatachaosblog.wordpress.com/2018/12/22/geolocate-ip-addresses-and-visualize-using-folium/ 22/12/2018.
+How you can find location data based on IP addresses Geographical mapping of an IP address can provide location information (country, city, longitude, latitude, etc.) for you. A large number of geolocation providers could be found on the Internet. Some of them are free (in many cases the provided information is limited), and some of them let you automate your requests. I have chosen the IP Geolocation API (ip-api.</description>
+    </item>
+    
+    <item>
+      <title>Learning materials</title>
+      <link>/learning-resources/</link>
+      <pubDate>Thu, 05 Mar 2020 15:52:58 +0000</pubDate>
+      
+      <guid>/learning-resources/</guid>
+      <description> Data36 Real Python DataCamp EdX Coursera  </description>
+    </item>
+    
+  </channel>
+</rss>
