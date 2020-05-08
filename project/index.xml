@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>My min rpg project</title>
+      <title>My DataCamp Projects</title>
       <link>/project/datacamp/</link>
       <pubDate>Fri, 08 May 2020 10:13:50 +0000</pubDate>
       
@@ -25,12 +25,12 @@ Python &amp;ndash; DATA MANIPULATION   Predicting Credit Card Approvals: Build a
     </item>
     
     <item>
-      <title>My min rpg project</title>
+      <title>My mini rpg project</title>
       <link>/project/mini_rpg/</link>
       <pubDate>Fri, 08 May 2020 10:13:50 +0000</pubDate>
       
       <guid>/project/mini_rpg/</guid>
-      <description>My mini rpg project This is a fun project to practice OOP in Python. The main idea is from FurureLearn.
+      <description>My mini rpg project This is a fun project to practice OOP in Python. The main idea is from FutureLearn.
 Aim of this game to get 3 friends, most of the time you have to fight with them to become friendly. Possible commands to move the player from room to room are north, south, west, east. Other commands talk, fight, check, backpack.
 Commands (after &amp;gt; sign):
  north, south, west, east talk fight check backback  </description>
