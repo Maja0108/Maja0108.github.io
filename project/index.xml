@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajna Toth</copyright>
-    <lastBuildDate>Tue, 18 Nov 2014 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 10:13:50 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My min rpg project</title>
+      <link>/project/datacamp/</link>
+      <pubDate>Fri, 08 May 2020 10:13:50 +0000</pubDate>
+      
+      <guid>/project/datacamp/</guid>
+      <description>My solved DataCamp projects My Jupyter Notebooks can be found here and here.
+Python &amp;ndash; DATA MANIPULATION   Predicting Credit Card Approvals: Build a machine learning model to predict if a credit card application will get approved.
+  A Visual History of Nobel Prize Winners: Explore a dataset from Kaggle containing a century&amp;rsquo;s worth of Nobel Laureates. Who won? Who got snubbed?
+  The GitHub History of the Scala Language: Find the true Scala experts by exploring its development history in Git and GitHub.</description>
+    </item>
+    
+    <item>
+      <title>My min rpg project</title>
+      <link>/project/mini_rpg/</link>
+      <pubDate>Fri, 08 May 2020 10:13:50 +0000</pubDate>
+      
+      <guid>/project/mini_rpg/</guid>
+      <description>My mini rpg project This is a fun project to practice OOP in Python. The main idea is from FurureLearn.
+Aim of this game to get 3 friends, most of the time you have to fight with them to become friendly. Possible commands to move the player from room to room are north, south, west, east. Other commands talk, fight, check, backpack.
+Commands (after &amp;gt; sign):
+ north, south, west, east talk fight check backback  </description>
+    </item>
     
     <item>
       <title>My short projects</title>

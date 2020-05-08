@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/my-courses/</loc>
-    <lastmod>2020-03-05T15:55:16+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-08T10:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/datacamp/</loc>
+    <lastmod>2020-05-08T10:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mini_rpg/</loc>
+    <lastmod>2020-05-08T10:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-05-08T10:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/my-courses/</loc>
     <lastmod>2020-03-05T15:55:16+00:00</lastmod>
   </url>
   
@@ -44,11 +59,6 @@
   
   <url>
     <loc>/project/myprojects/</loc>
-    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
