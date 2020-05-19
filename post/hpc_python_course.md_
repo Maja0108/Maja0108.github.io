@@ -1,0 +1,62 @@
+https://www.futurelearn.com/courses/python-in-hpc
+push my limits further
+
+optimize performance bottlenecks in python
+
+
+
+
+performance analysis
+
+timers, timeit, or cProfile
+
+numpy vs lists
+numpy - create, slice, vectorize, split, combine, broadcast,  etc.
+
+Cython
+
+https://www.youtube.com/watch?v=lxh4lsvEBhI
+
+setup.py:
+from distutils.core import setup
+from Cython.Build import cythonize
+
+setup(
+     ext_modules=cythonize("/home/ajna/Ajna/python/hpc_python/hpc-python/my_solutions/cpython/second_add.pyx"),
+)
+
+python3 run_cython.py build_ext --inplace
+
+analyse code cython -a x.pyc  find overheads in the code
+
+python - python with static type declaration - pure c (cdef) cpdef
+
+numpy and cython -- cimport, this case for cycle become C for cycle
+index enchancement -- cython decorators
+@cython.boundscheck(False)
+@cython.wraparound(False)
+
+https://stackoverflow.com/questions/14657375/cython-fatal-error-numpy-arrayobject-h-no-such-file-or-directory
+
+
+optimizing heat equation
+normal python 37 s
+cythonize 36s, cdef 3s, cnp.array 34s, decorators 35s
+iterations to c style 0.044s
+
+Cython profile - normaly not in profiling
+cimport cython
+
+@cython.profile(True) or @cython.profile(False) - if not needed
+
+
+CFFI external C Forein Function Interface ABI vs API
+C application programmer interface default
+
+Fortran to Python f2py interface
+
+
+Parallel computing
+
+
+

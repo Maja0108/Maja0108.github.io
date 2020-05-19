@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajna Toth</copyright>
-    <lastBuildDate>Thu, 05 Mar 2020 15:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 15:55:16 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,22 @@
     <item>
       <title>My courses</title>
       <link>/my-courses/</link>
-      <pubDate>Thu, 05 Mar 2020 15:55:16 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 15:55:16 +0000</pubDate>
       
       <guid>/my-courses/</guid>
-      <description>Courses Coursera  An Introduction to Interactive Programming in Python (Part 1), Rice University An Introduction to Interactive Programming in Python (Part 2), Rice University Data Management and Visualization, Wesleyan University Exploratory Data Analysis, Johns Hopkins University Getting and Cleaning Data, Johns Hopkins University Machine Learning Foundations: A Case Study Approach, University of Washington Programming for Everybody (Getting Started with Python) University of Michigan Python Data Structures, University of Michigan R Programming, Johns Hopkins University Regression Models, Johns Hopkins University Reproducible Research, Johns Hopkins University Statistical Inference, Johns Hopkins University The Data Scientist’s Toolbox, Johns Hopkins University  EDX   Data Science: Visualization</description>
+      <description>Courses Coursera  An Introduction to Interactive Programming in Python (Part 1), Rice University An Introduction to Interactive Programming in Python (Part 2), Rice University Data Management and Visualization, Wesleyan University Exploratory Data Analysis, Johns Hopkins University Getting and Cleaning Data, Johns Hopkins University Machine Learning Foundations: A Case Study Approach, University of Washington Programming for Everybody (Getting Started with Python) University of Michigan Python Data Structures, University of Michigan R Programming, Johns Hopkins University Regression Models, Johns Hopkins University Reproducible Research, Johns Hopkins University Statistical Inference, Johns Hopkins University The Data Scientist’s Toolbox, Johns Hopkins University  EDX  Basics of Power BI (in progress) Analyzing and Visualizing Data with Power BI (Microsoft) Analyzing and Visualizing Data with Power BI (Davidson) Data Science: Visualization Using Python for Research Foundations of Data Science: Computational Thinking with Python Foundations of Data Science: Inferential Thinking by Resampling Data Analysis for Life Sciences 2: Introduction to Linear Models and Matrix Algebra Data Science and Machine Learning Essentials Introduction to Computational Thinking and Data Science Introduction to Computer Science and Programming Using Python Introduction to R Programming Statistical Thinking for Data Science and Analytics Statistics and R for the Life Sciences Explore Statistics with R Microsoft Professional Program Data Science Certificate:  Introduction to Python for Data Science Principles of Machine Learning Programming with Python for Data Science Data Science Essentials Data Science Orientation Querying with Transact-SQL Statistical Thinking for Data Science and Analytics Analyzing and Visualizing Data with Excel Applied Machine Learning Microsoft Professional Capstone: Data Science    Datacamp  Introduction to Tableau DataAnalyst Track DataScience Track Python Programmer Track SQL fundamentals Track SQL Server Fundamantal Track Data Engineering Track  Radacad  Power BI From Rookie to Rockstar (in progress)  Futurelearn  Python in High Performance Computing (in progress) Object-oriented Programming in Python: Create Your Own Adventure Game  </description>
+    </item>
+    
+    <item>
+      <title>Learning materials</title>
+      <link>/learning-resources/</link>
+      <pubDate>Mon, 18 May 2020 15:52:58 +0000</pubDate>
+      
+      <guid>/learning-resources/</guid>
+      <description>Here is some learning sources for Python, R, Power BI, etc.
+Learning sites:
+ DataCamp EdX Coursera Linuxacedemy Community edition Hackerrank Hackerearth KataCoda CS50 series from Harvard Kaggle  Tutorials, blogs and other sites
+ Python Master Guide Slither in to Python Real Python Data36 Python Data Science Handbook Trey Hunner Matt Layman Freecodecamp news Radacad for Power BI  </description>
     </item>
     
     <item>
@@ -29,15 +41,6 @@
       <guid>/ip-post/</guid>
       <description>This blog post was originally published in https://adventuresindatachaosblog.wordpress.com/2018/12/22/geolocate-ip-addresses-and-visualize-using-folium/ 22/12/2018.
 How you can find location data based on IP addresses Geographical mapping of an IP address can provide location information (country, city, longitude, latitude, etc.) for you. A large number of geolocation providers could be found on the Internet. Some of them are free (in many cases the provided information is limited), and some of them let you automate your requests. I have chosen the IP Geolocation API (ip-api.</description>
-    </item>
-    
-    <item>
-      <title>Learning materials</title>
-      <link>/learning-resources/</link>
-      <pubDate>Thu, 05 Mar 2020 15:52:58 +0000</pubDate>
-      
-      <guid>/learning-resources/</guid>
-      <description> Data36 Real Python DataCamp EdX Coursera  </description>
     </item>
     
   </channel>
